@@ -15,6 +15,7 @@
 		D760A5831BFB324F002EEAC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D760A5811BFB324F002EEAC1 /* LaunchScreen.storyboard */; };
 		D760A58E1BFB3250002EEAC1 /* ParallaxEffectWithSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D760A58D1BFB3250002EEAC1 /* ParallaxEffectWithSwiftTests.swift */; };
 		D760A5991BFB3250002EEAC1 /* ParallaxEffectWithSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D760A5981BFB3250002EEAC1 /* ParallaxEffectWithSwiftUITests.swift */; };
+		D760A5A71BFB32FA002EEAC1 /* apple_style-wallpaper-1280x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D760A5A61BFB32FA002EEAC1 /* apple_style-wallpaper-1280x768.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D760A5941BFB3250002EEAC1 /* ParallaxEffectWithSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParallaxEffectWithSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D760A5981BFB3250002EEAC1 /* ParallaxEffectWithSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxEffectWithSwiftUITests.swift; sourceTree = "<group>"; };
 		D760A59A1BFB3250002EEAC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D760A5A61BFB32FA002EEAC1 /* apple_style-wallpaper-1280x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "apple_style-wallpaper-1280x768.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		D760A5691BFB324F002EEAC1 = {
 			isa = PBXGroup;
 			children = (
+				D760A5A61BFB32FA002EEAC1 /* apple_style-wallpaper-1280x768.jpg */,
 				D760A5741BFB324F002EEAC1 /* ParallaxEffectWithSwift */,
 				D760A58C1BFB3250002EEAC1 /* ParallaxEffectWithSwiftTests */,
 				D760A5971BFB3250002EEAC1 /* ParallaxEffectWithSwiftUITests */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D760A5831BFB324F002EEAC1 /* LaunchScreen.storyboard in Resources */,
+				D760A5A71BFB32FA002EEAC1 /* apple_style-wallpaper-1280x768.jpg in Resources */,
 				D760A5801BFB324F002EEAC1 /* Assets.xcassets in Resources */,
 				D760A57B1BFB324F002EEAC1 /* Main.storyboard in Resources */,
 			);

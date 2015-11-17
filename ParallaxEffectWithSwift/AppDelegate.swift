@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ParallaxEffectWithSwift
 //
-//  Created by Dev on 17/11/15.
+//  Created by Pratik Lad on 17/11/15.
 //  Copyright © 2015 pratik. All rights reserved.
 //
 
